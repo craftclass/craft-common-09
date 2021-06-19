@@ -1,2 +1,2 @@
-I am learing how to write git commonds.
+I am learning how to write git commonds.
 You do the same!
