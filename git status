@@ -1,0 +1,592 @@
+[33mcommit fd68209e0eb5f85e546d498c578311dafd91fa28[m[33m ([m[1;36mHEAD -> [m[1;32mTsedeniya-branch[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: kalidevelop <kalkidanta@gmail.com>
+Date:   Tue Jun 22 11:51:51 2021 -0400
+
+    me2
+
+[33mcommit 914f4d9d875f89b15a110670f1e68a8b580aab3f[m
+Author: kalidevelop <kalkidanta@gmail.com>
+Date:   Tue Jun 22 11:41:34 2021 -0400
+
+    my first text file
+
+[33mcommit ce08bd465bc8431cd51e3b4ec83a0f50c3c1aa51[m
+Merge: 6c46c46 92a2ed1
+Author: egb2355 <86032399+egb2355@users.noreply.github.com>
+Date:   Tue Jun 22 10:53:09 2021 -0400
+
+    Merge pull request #3 from craftgithubuser/Negussie-Branch
+    
+    From Negussie Branch
+
+[33mcommit 6c46c46589a82ca88b555e9eda5cceef0f17e001[m
+Author: Eliashabesha <Eliashabesha81@gmail.com>
+Date:   Tue Jun 22 08:26:31 2021 -0500
+
+    this is my first practice
+
+[33mcommit 90127088410314cdd7d3046bfd05c1778dd9e687[m
+Merge: aed5bdb d8f9920
+Author: Bekigit <86032912+Bekigit@users.noreply.github.com>
+Date:   Tue Jun 22 00:43:26 2021 -0400
+
+    Merge pull request #9 from craftgithubuser/Bereket-branch
+    
+    Merge pull request #8 from craftgithubuser/master
+
+[33mcommit aed5bdb8d1d98c5327635fde0f9becd018c4b55e[m
+Author: Bekigit <berekim@gmail.comgit config --global user.email berekim@gmail.comgit config --global user.email berekim@gmail.com>
+Date:   Tue Jun 22 00:40:16 2021 -0400
+
+    Coment added
+
+[33mcommit 1313c1d9feba0d5281212e9fa75cf21fa95df8e4[m
+Merge: 1e57d1d 4831645
+Author: Bekigit <berekim@gmail.comgit config --global user.email berekim@gmail.comgit config --global user.email berekim@gmail.com>
+Date:   Tue Jun 22 00:35:53 2021 -0400
+
+    Merge branch 'master' of https://github.com/craftgithubuser/craft-common-09
+
+[33mcommit d8f99200875f815001e6ee8a9d2f482c408cd167[m[33m ([m[1;31morigin/Bereket-branch[m[33m)[m
+Merge: 131e032 4831645
+Author: Bekigit <86032912+Bekigit@users.noreply.github.com>
+Date:   Tue Jun 22 00:32:31 2021 -0400
+
+    Merge pull request #8 from craftgithubuser/master
+    
+    Sharing
+
+[33mcommit 483164570434a78b787b6ff562fef7a352fa1919[m
+Author: Bekigit <86032912+Bekigit@users.noreply.github.com>
+Date:   Tue Jun 22 00:28:02 2021 -0400
+
+    Commit added
+
+[33mcommit 9aed8fae34c3f6580ce5bf21c203678d9ae463b5[m
+Merge: 1b42826 f91a580
+Author: Tsedeke <84254184+Tsedeke21@users.noreply.github.com>
+Date:   Tue Jun 22 00:25:33 2021 -0400
+
+    Merge pull request #7 from craftgithubuser/Tsedeke-Branch
+    
+    tsedeke
+
+[33mcommit f91a5803d7dad3cd9f35229dd875f681e52a79e3[m[33m ([m[1;31morigin/Tsedeke-Branch[m[33m)[m
+Author: Tsedeke21 <tsedeke05@gmail.com>
+Date:   Tue Jun 22 00:24:04 2021 -0400
+
+    Create branch1.txt
+
+[33mcommit 1e57d1d51482a57f92150fb54f66dd1d399da258[m
+Merge: 450c3d4 1b42826
+Author: Bekigit <berekim@gmail.comgit config --global user.email berekim@gmail.comgit config --global user.email berekim@gmail.com>
+Date:   Tue Jun 22 00:15:05 2021 -0400
+
+    Merge branch 'master' of https://github.com/craftgithubuser/craft-common-09
+
+[33mcommit 1b42826db9ba5c061d75bb58185b537d610ebed8[m[33m ([m[1;31morigin/Getahun_Biranch[m[33m, [m[1;31morigin/Getahun-Branch[m[33m)[m
+Merge: 093dbf9 151bc23
+Author: egb2355 <86032399+egb2355@users.noreply.github.com>
+Date:   Mon Jun 21 23:46:32 2021 -0400
+
+    Merge pull request #6 from craftgithubuser/ermiasbranch
+    
+    Merge pull request #5 from craftgithubuser/master
+
+[33mcommit 151bc23494f6ae938298f197cfc1eaf3ffb53abe[m[33m ([m[1;31morigin/ermiasbranch[m[33m)[m
+Merge: 520040d 093dbf9
+Author: egb2355 <86032399+egb2355@users.noreply.github.com>
+Date:   Mon Jun 21 23:45:21 2021 -0400
+
+    Merge pull request #5 from craftgithubuser/master
+    
+    project
+
+[33mcommit 093dbf9cdd308e92aeecab64caf1f7c2abffcc96[m
+Merge: 16e1025 914fab5
+Author: habtamugm <habte2213>
+Date:   Mon Jun 21 20:24:01 2021 -0700
+
+    Merge branch 'master' of https://github.com/craftgithubuser/craft-common-09
+
+[33mcommit 914fab5aa73914f29a7bd52b8015bf15fe3b613e[m
+Author: craftgithubuser <84628400+craftgithubuser@users.noreply.github.com>
+Date:   Tue Jun 22 05:57:06 2021 +0300
+
+    EmployeeInfo class added
+
+[33mcommit 5ed98e22ce1fca45306316389a052d3035d99991[m
+Author: craftgithubuser <84628400+craftgithubuser@users.noreply.github.com>
+Date:   Tue Jun 22 05:48:34 2021 +0300
+
+    commit message from eclipse
+
+[33mcommit 450c3d4aea914136733eed8c21a05a8f73a9a399[m
+Merge: 4c42ada 31f1d71
+Author: Bekigit <berekim@gmail.comgit config --global user.email berekim@gmail.comgit config --global user.email berekim@gmail.com>
+Date:   Mon Jun 21 22:18:57 2021 -0400
+
+    Merge branch 'master' of https://github.com/craftgithubuser/craft-common-09
+
+[33mcommit 31f1d715ead212cd35fd84b38093356886832c53[m[33m ([m[1;31morigin/Habtamu[m[33m)[m
+Merge: 699262b b793437
+Author: Dunaf <86089004+Dunaf@users.noreply.github.com>
+Date:   Mon Jun 21 22:06:54 2021 -0400
+
+    Merge pull request #4 from craftgithubuser/branch2
+    
+    Branch2
+
+[33mcommit b793437509138e2dd9092a6d9e74acc9e6484411[m[33m ([m[1;31morigin/duna_branch1[m[33m, [m[1;31morigin/branch2[m[33m)[m
+Merge: e53b106 dd1c22b
+Author: Dunaf <adu2adi2012@gmail.com>
+Date:   Mon Jun 21 22:06:07 2021 -0400
+
+    Merge branch 'master' into branch2
+
+[33mcommit 699262b251f0a076ab30d1bd8e8b8d73e11e031f[m
+Merge: 62e25e3 dd1c22b
+Author: egb2355 <ermiasgetuo@gmail.com>
+Date:   Mon Jun 21 22:04:58 2021 -0400
+
+    Merge branch 'master' of https://github.com/craftgithubuser/craft-common-09
+
+[33mcommit dd1c22b1b9e02af546fcda3b53475dff931eef44[m[33m ([m[1;31morigin/masresha[m[33m, [m[1;31morigin/Masresha-update[m[33m)[m
+Merge: 8e39d2a fd89a8a
+Author: craftgithubuser <84628400+craftgithubuser@users.noreply.github.com>
+Date:   Tue Jun 22 05:03:58 2021 +0300
+
+    Merge pull request #2 from craftgithubuser/branch2
+    
+    commit from branch2
+
+[33mcommit e53b1067447bc68c4475d52a27b04b9a6bfaf3f1[m
+Author: Dunaf <adu2adi2012@gmail.com>
+Date:   Mon Jun 21 22:03:34 2021 -0400
+
+    Create hello again.txt
+
+[33mcommit 62e25e33417d0f8017b5d3bd045ded43c293f6fe[m
+Merge: 520040d 4ff5ad8
+Author: egb2355 <ermiasgetuo@gmail.com>
+Date:   Mon Jun 21 22:01:25 2021 -0400
+
+    Merge branch 'master' of https://github.com/craftgithubuser/craft-common-09
+
+[33mcommit fd89a8a64a0151fec8ac7aec5cc4b307584bb80f[m
+Author: craftgithubuser <84628400+craftgithubuser@users.noreply.github.com>
+Date:   Tue Jun 22 05:00:47 2021 +0300
+
+    commit from branch2
+
+[33mcommit 8e39d2ab97bfbae026765fdf0320f06e72e06036[m
+Merge: 0808490 4ff5ad8
+Author: gettyman <gettymk@gmail.com>
+Date:   Mon Jun 21 21:58:57 2021 -0400
+
+    Merge branch 'master' of https://github.com/craftgithubuser/craft-common-09
+
+[33mcommit 520040d59963b4b82db131d3f4ee2c9e18820781[m
+Author: egb2355 <ermiasgetuo@gmail.com>
+Date:   Mon Jun 21 21:57:42 2021 -0400
+
+    add greeting
+
+[33mcommit 16e1025ed8f5bad2f892deb46f9762560d3f9f66[m
+Author: habtamugm <habte2213>
+Date:   Mon Jun 21 18:55:18 2021 -0700
+
+    branch message
+
+[33mcommit 4c42ada4df12ce5fbdcd1e39ed72410bd12ddb1d[m
+Author: Bekigit <berekim@gmail.comgit config --global user.email berekim@gmail.comgit config --global user.email berekim@gmail.com>
+Date:   Mon Jun 21 21:53:22 2021 -0400
+
+    commit added
+
+[33mcommit c4b9a21a5db677dbacfea42cfeaf4a0b9c19ed16[m
+Author: egb2355 <ermiasgetuo@gmail.com>
+Date:   Mon Jun 21 21:50:07 2021 -0400
+
+    add commit
+
+[33mcommit 92a2ed114e99c69cc6bdbb303634cca71e99d037[m[33m ([m[1;31morigin/Negussie-Branch[m[33m)[m
+Author: negussiemekonnen <negussiea27@gmail.com>
+Date:   Mon Jun 21 21:48:09 2021 -0400
+
+    From Negussie Branch
+
+[33mcommit 21a704ce0844d6a56a9927dc607af50ed110632d[m
+Author: egb2355 <ermiasgetuo@gmail.com>
+Date:   Mon Jun 21 21:41:17 2021 -0400
+
+    first commit
+
+[33mcommit 4ff5ad8c329f244eea3faa6f676abba48dad1309[m[33m ([m[1;31morigin/branch1[m[33m, [m[1;31morigin/branch-3[m[33m, [m[1;31morigin/Branch-1[m[33m)[m
+Author: craftgithubuser <84628400+craftgithubuser@users.noreply.github.com>
+Date:   Tue Jun 22 04:26:44 2021 +0300
+
+    creating new branch file from branch1
+
+[33mcommit 08084900914364f4fc0e3659be8f8f5f4c4fa4fd[m
+Author: gettyman <gettymk@gmail.com>
+Date:   Mon Jun 21 20:26:47 2021 -0400
+
+    folder added
+
+[33mcommit d648407b67245a3c77ea092d2b3551b011440584[m[33m ([m[1;31morigin/lesanbranch[m[33m)[m
+Author: ligithub <yemgebremaryam27@gmail.com>
+Date:   Mon Jun 21 19:28:25 2021 -0400
+
+    Abebe
+
+[33mcommit d8c37d4e9eb07b1e29fa85e582c397465accd62a[m
+Author: ligithub <yemgebremaryam27@gmail.com>
+Date:   Mon Jun 21 19:20:39 2021 -0400
+
+    first commit text
+
+[33mcommit 62ba836b00fe925145f8247f93b5246ee65249fb[m[33m ([m[1;31morigin/Legesse-Branch[m[33m)[m
+Author: woinshetb <86031844+woinshetb@users.noreply.github.com>
+Date:   Mon Jun 21 13:29:17 2021 -0400
+
+    Create text1
+
+[33mcommit 89ec0ae1f4f2d11291a2682b66bce967b2583934[m[33m ([m[1;31morigin/woinshetbranch[m[33m)[m
+Author: Woinshetb <woinshetb18@gmail.com>
+Date:   Mon Jun 21 13:24:59 2021 -0400
+
+    frist commited text
+
+[33mcommit b744461a1e94694359b50b807947525f73b1a22f[m
+Author: negussiemekonnen <negussiea27@gmail.com>
+Date:   Mon Jun 21 10:51:53 2021 -0400
+
+    Hello message to all class 19
+
+[33mcommit 79e255af835e238a5cbfa90ee1e3b86871eaa436[m
+Merge: fbb0bd4 3652b79
+Author: lesan8 <gmlesan@gmail.com>
+Date:   Sun Jun 20 19:24:42 2021 -0400
+
+    Merge branch 'master' of https://github.com/craftgithubuser/craft-common-09
+
+[33mcommit fbb0bd490092c4ab4979a4edff0dc1bff7516d40[m
+Author: lesan8 <gmlesan@gmail.com>
+Date:   Sun Jun 20 19:13:11 2021 -0400
+
+    adding from local to brach
+
+[33mcommit 3652b790d8cab03082496c27cec608ab36dc466b[m
+Author: Masresha1984 <86032513+Masresha1984@users.noreply.github.com>
+Date:   Sat Jun 19 21:44:35 2021 -0400
+
+    Create Mass new
+
+[33mcommit 265b29febbfbd8ee843f94afa975e5dbe647f34c[m
+Merge: 7020520 1542873
+Author: Tsedeke <84254184+Tsedeke21@users.noreply.github.com>
+Date:   Sat Jun 19 15:05:22 2021 -0400
+
+    Merge pull request #1 from craftgithubuser/main
+    
+    my index file
+
+[33mcommit 702052050f4e21c7f93b58eba9583f894e966c8e[m
+Author: Tsedeke <84254184+Tsedeke21@users.noreply.github.com>
+Date:   Sat Jun 19 12:00:15 2021 -0400
+
+    Create README.md
+
+[33mcommit 41452f09478cd8a98c8dcda008d6d81982d49e38[m
+Author: lenjamo <legush@gmail.com>
+Date:   Sat Jun 19 04:50:49 2021 -0400
+
+    on commit stage
+    
+    updated commonds to commands.
+
+[33mcommit 9436e148293b8a5951332814992c804ab8a8f742[m
+Author: lenjamo <legush@gmail.com>
+Date:   Sat Jun 19 04:30:41 2021 -0400
+
+    updated IT file
+
+[33mcommit b726f694bdcb0c61ba772c6562320cacbf84d503[m
+Author: negussiemekonnen <negussiea27@gmail.com>
+Date:   Sat Jun 19 00:54:16 2021 -0400
+
+    Test Push to Mule 09
+
+[33mcommit 11d01974a1a665e2152ae369041c3ae4c267aa47[m
+Author: lenjamo <86031293+lenjamo@users.noreply.github.com>
+Date:   Sat Jun 19 00:26:26 2021 -0400
+
+    Update legesse.txt
+    
+    updated my txt file
+
+[33mcommit edc2eaa091df3bd4a0a8c9d89751dd26c21950bb[m
+Author: lenjamo <86031293+lenjamo@users.noreply.github.com>
+Date:   Sat Jun 19 00:22:43 2021 -0400
+
+    Create legesse.txt
+    
+    practice txt file
+
+[33mcommit 154287331a30da0d14ea799573d1e9173ab15473[m
+Author: lenjamo <legush@gmail.com>
+Date:   Sat Jun 19 00:15:24 2021 -0400
+
+    my index file
+
+[33mcommit 6fd1abc60955342aeaf3a3a658035eb7c279cefb[m
+Author: lesan8 <gmlesan@gmail.com>
+Date:   Fri Jun 18 13:28:47 2021 -0400
+
+    this is a sample'
+
+[33mcommit cd92c8c73375e740c585ff4ebac5e8402be88348[m
+Author: lesan8 <gmlesan@gmail.com>
+Date:   Fri Jun 18 13:14:11 2021 -0400
+
+    file commited
+
+[33mcommit a47bf40bb55dc0586faf8d84ac791a4d6e7e6c57[m
+Author: Lesan8 <86032611+Lesan8@users.noreply.github.com>
+Date:   Fri Jun 18 12:51:43 2021 -0400
+
+    Create Lesan
+
+[33mcommit 131e032c1c651b3027ba14f41cb49561148a3a78[m
+Author: gettyman <gettymk@gmail.com>
+Date:   Fri Jun 18 02:04:18 2021 -0400
+
+    Create Getahun.txt
+
+[33mcommit 07065effbc6e3695eeadd6524c00e99dee9cbb7d[m
+Merge: 1d730b5 a91eb5b
+Author: egb2355 <ermiasgetuo@gmail.com>
+Date:   Fri Jun 18 02:02:39 2021 -0400
+
+    Merge branch 'master' of https://github.com/craftgithubuser/craft-common-09
+
+[33mcommit 1d730b5448ef9d26a211d8cbbdf8042d0b527904[m
+Author: egb2355 <ermiasgetuo@gmail.com>
+Date:   Fri Jun 18 02:01:50 2021 -0400
+
+    second commit
+
+[33mcommit a91eb5b2c97eea950e3ed399be37dee8f7ef374d[m
+Author: habtamugm <86032430+habtamugm@users.noreply.github.com>
+Date:   Thu Jun 17 22:52:17 2021 -0700
+
+    file 1
+
+[33mcommit 7ce46ca8bab37e8f6b8463435887d4e344186741[m
+Author: Bekigit <86032912+Bekigit@users.noreply.github.com>
+Date:   Fri Jun 18 01:29:50 2021 -0400
+
+    Update My file.txt
+
+[33mcommit 0d9c516cd26456786f6290a975a6a39bec1ac2d8[m
+Author: Bekigit <berekim@gmail.com>
+Date:   Fri Jun 18 01:21:17 2021 -0400
+
+    file created
+
+[33mcommit 67426942c179194fede829bde60d39f67c2be01e[m
+Author: fentie21 <86033129+fentie21@users.noreply.github.com>
+Date:   Thu Jun 17 23:36:08 2021 -0500
+
+    Create alebachew.txt
+
+[33mcommit e97d353ad09bbc070d6dd336902155ff2dc1c179[m
+Author: samitt-lab <85315512+samitt-lab@users.noreply.github.com>
+Date:   Fri Jun 18 00:07:36 2021 -0400
+
+    Create Samuel TT
+
+[33mcommit 2b20a5ed3fe43babb88aefa059af11dcb19a5e0e[m
+Author: tsedi88 <86089574+tsedi88@users.noreply.github.com>
+Date:   Thu Jun 17 23:57:39 2021 -0400
+
+    Update file t
+
+[33mcommit a8956e9f62779344a0dbb767fd8baa98304c6682[m
+Author: 22aviator <82426989+22aviator@users.noreply.github.com>
+Date:   Thu Jun 17 23:50:23 2021 -0400
+
+    Create gebeyhu.txt
+
+[33mcommit f9f23a839b3c2d04ce170c1b03c0821d725c0ea9[m
+Merge: ebf8b65 776391e
+Author: egb2355 <ermiasgetuo@gmail.com>
+Date:   Thu Jun 17 23:43:28 2021 -0400
+
+    Merge branch 'master' of https://github.com/craftgithubuser/craft-common-09
+
+[33mcommit ebf8b6522deb39f84bf54f57c83f65cc383eb7f9[m
+Author: egb2355 <ermiasgetuo@gmail.com>
+Date:   Thu Jun 17 23:43:09 2021 -0400
+
+    this is me!
+
+[33mcommit 776391e66f94ea91703b7c4f2ae4149932a68e49[m
+Author: tsedi88 <86089574+tsedi88@users.noreply.github.com>
+Date:   Thu Jun 17 23:41:13 2021 -0400
+
+    Create file t
+    
+    Hi, Everyone!
+
+[33mcommit ba6c48639e4b77f550418e9c369b12e4c4a113be[m
+Author: Girumbkl <86087769+Girumbkl@users.noreply.github.com>
+Date:   Thu Jun 17 23:25:22 2021 -0400
+
+    G
+
+[33mcommit 3bcc3336dcc78ce853caef80e2cfa165aca6ccb8[m
+Author: 22aviator <gebeyhuadwa@gmail.com>
+Date:   Thu Jun 17 23:10:44 2021 -0400
+
+     add Gebeyhu initial text file
+
+[33mcommit 950a388865a11833807f068303bda3060a9e8174[m[33m ([m[1;31morigin/rediat-branch[m[33m)[m
+Merge: 6a6123e f48c67c
+Author: rediat09 <86032484+rediat09@users.noreply.github.com>
+Date:   Thu Jun 17 23:01:37 2021 -0400
+
+    Merge branch 'master' of https://github.com/craftgithubuser/craft-common-09
+
+[33mcommit 6a6123ec4365da0fe3774f73e88a6547092a1f05[m
+Author: rediat09 <86032484+rediat09@users.noreply.github.com>
+Date:   Thu Jun 17 23:01:34 2021 -0400
+
+    Create Rediat G.txt
+
+[33mcommit f48c67cb4f1762b8db325ad09b4d90ad71592270[m
+Author: lenjamo <86031293+lenjamo@users.noreply.github.com>
+Date:   Thu Jun 17 22:58:13 2021 -0400
+
+    Create Legesse-file
+    
+    new file is created.
+
+[33mcommit 0c4248685f9ca98fef5a888359a51ecd6bad857f[m
+Merge: 09241fa a1df2b8
+Author: Girumbkl <86087769+Girumbkl@users.noreply.github.com>
+Date:   Thu Jun 17 22:56:23 2021 -0400
+
+    Merge branch 'master' of https://github.com/craftgithubuser/craft-common-09
+
+[33mcommit 09241fa997dda63976789741622645384b297c1d[m
+Author: Girumbkl <86087769+Girumbkl@users.noreply.github.com>
+Date:   Thu Jun 17 22:55:47 2021 -0400
+
+    Girum
+
+[33mcommit a1df2b8078c36923218b23e9c38f6a9d600e0df3[m
+Author: Eliashabesha <86089201+Eliashabesha@users.noreply.github.com>
+Date:   Thu Jun 17 21:55:43 2021 -0500
+
+    Create Yoka
+
+[33mcommit d0bfe5628be8fdbb06a1d63e101c8ac79e1f0523[m
+Author: fentie21 <86033129+fentie21@users.noreply.github.com>
+Date:   Thu Jun 17 21:55:15 2021 -0500
+
+    Create alex 21
+
+[33mcommit 0dc692e0ab44f6729029d1521d0b7e3f7c370a10[m
+Author: Ebegashaw <86032457+Ebegashaw@users.noreply.github.com>
+Date:   Thu Jun 17 22:53:16 2021 -0400
+
+    Create efo
+
+[33mcommit 7f4bdc3c90f788a5335abfae9e326a43b4ce3b06[m
+Merge: 3e65d41 1ff04af
+Author: craftgithubuser <84628400+craftgithubuser@users.noreply.github.com>
+Date:   Fri Jun 18 05:50:29 2021 +0300
+
+    Merge branch 'master' of https://github.com/craftgithubuser/craft-common-09
+
+[33mcommit 3e65d418807f5dbd2d7bf6287003f9eccbdb6de9[m
+Author: craftgithubuser <84628400+craftgithubuser@users.noreply.github.com>
+Date:   Fri Jun 18 05:50:18 2021 +0300
+
+    Create jerus.txt
+
+[33mcommit 1ff04af628572e5a323783f677bbc0de83c85c53[m
+Merge: 69d7ecf 617e6fb
+Author: Girumbkl <86087769+Girumbkl@users.noreply.github.com>
+Date:   Thu Jun 17 22:50:08 2021 -0400
+
+    Merge branch 'master' of https://github.com/craftgithubuser/craft-common-09
+
+[33mcommit 69d7ecf37080b5e23228ad69915715f3c2fdcddd[m
+Author: Girumbkl <86087769+Girumbkl@users.noreply.github.com>
+Date:   Thu Jun 17 22:48:44 2021 -0400
+
+    girum
+
+[33mcommit 617e6fbda0552cf4c3057ef0c67176ac1e02be0b[m
+Author: Ayantudeyasa <86088953+Ayantudeyasa@users.noreply.github.com>
+Date:   Thu Jun 17 19:46:38 2021 -0700
+
+    file ayu
+
+[33mcommit 58f2a1c8fd81cd3899f39cc75d79c70553b8ed21[m
+Merge: ffc6de5 44c9e00
+Author: craftgithubuser <84628400+craftgithubuser@users.noreply.github.com>
+Date:   Fri Jun 18 05:42:25 2021 +0300
+
+    Merge branch 'master' of https://github.com/craftgithubuser/craft-common-09
+
+[33mcommit 44c9e0053e33b7d319f58311a2e37866bd43a4d1[m
+Author: Jerus20 <62271070+Jerus20@users.noreply.github.com>
+Date:   Thu Jun 17 22:42:12 2021 -0400
+
+    Create Jerusfile1
+
+[33mcommit ffc6de5953edfb66150f00165d88097c9eb1e3b4[m
+Author: craftgithubuser <84628400+craftgithubuser@users.noreply.github.com>
+Date:   Fri Jun 18 05:42:07 2021 +0300
+
+    file commited from soresa
+
+[33mcommit bdebd1844d7d72ffcb2bbbf5952e1471f639fdc9[m
+Author: felema1 <82436054+felema1@users.noreply.github.com>
+Date:   Thu Jun 17 22:42:01 2021 -0400
+
+    Create Filmon
+
+[33mcommit 5333d6bd4609e8b93428f53760860a557b2b46f9[m
+Author: craftgithubuser <84628400+craftgithubuser@users.noreply.github.com>
+Date:   Fri Jun 18 05:22:12 2021 +0300
+
+    file4 is created
+
+[33mcommit 9553b14a6f96560efc57a57e540afc96ecbf3a10[m
+Author: craftgithubuser <84628400+craftgithubuser@users.noreply.github.com>
+Date:   Fri Jun 18 05:19:21 2021 +0300
+
+    file3 is updated
+
+[33mcommit 21419728544b195c259705b86e4f3f44e79cdc56[m
+Author: craftgithubuser <84628400+craftgithubuser@users.noreply.github.com>
+Date:   Fri Jun 18 05:18:09 2021 +0300
+
+    Create File3
+
+[33mcommit c17fabe8b658ab1931cdfcd7edb435d46ea59ef0[m
+Author: craftgithubuser <84628400+craftgithubuser@users.noreply.github.com>
+Date:   Fri Jun 18 05:17:01 2021 +0300
+
+    file2 commited
+
+[33mcommit 6f6891f471493bc311f2b032379f6993d40abff2[m
+Author: craftgithubuser <craftknowledge.soresa@gmail.com>
+Date:   Fri Jun 18 05:02:47 2021 +0300
+
+    File commited
