@@ -1,0 +1,5 @@
+git branch <branchname>
+git branch abdulbranch
+
+
+git checkout abdulbranch
